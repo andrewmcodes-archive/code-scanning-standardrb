@@ -1,0 +1,5 @@
+name: "Standard code-scanning"
+description: "Standard and code-scanning integration"
+runs:
+  using: "docker"
+  image: "../Dockerfile"
